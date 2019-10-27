@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E remove -f CMakeFiles\WeaponXP.dir/objects.a
+C:\newmingw64\mingw64\x86_64-w64-mingw32\bin\ar.exe cr CMakeFiles\WeaponXP.dir/objects.a @CMakeFiles\WeaponXP.dir\objects1.rsp
+C:\newmingw64\mingw64\bin\g++.exe  -m64 -masm=intel -static -static-libgcc -static-libstdc++  -shared -o ..\bin\WeaponXP.dll -Wl,--out-implib,libWeaponXP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\WeaponXP.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\WeaponXP.dir\linklibs.rsp
