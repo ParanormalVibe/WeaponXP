@@ -1,3 +1,0 @@
-C:/Users/Fenneru/Documents/Cube World Projects/Weapon XP/build/CMakeFiles/WeaponXP.dir
-C:/Users/Fenneru/Documents/Cube World Projects/Weapon XP/build/CMakeFiles/edit_cache.dir
-C:/Users/Fenneru/Documents/Cube World Projects/Weapon XP/build/CMakeFiles/rebuild_cache.dir
